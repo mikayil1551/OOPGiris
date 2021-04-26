@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\bin\Debug\OOP_Giris.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\bin\Debug\OOP_Giris.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\bin\Debug\OOP_Giris.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.25.2021\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.pdb
